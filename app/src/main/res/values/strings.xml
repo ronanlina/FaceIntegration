@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Face Integration</string>
+
+    <!-- for facebook API integration -->
+    <string name="facebook_app_id">173178330047325</string>
+    <string name="fb_login_protocol_scheme">fb173178330047325</string>
+
+</resources>
